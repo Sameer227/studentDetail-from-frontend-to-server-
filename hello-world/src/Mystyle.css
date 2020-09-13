@@ -1,0 +1,25 @@
+.primary{
+    color:orange;
+}
+.brand-logo {
+    color: rgb(63, 238, 20);
+}
+.right {
+    color: rgb(61, 25, 221);
+}
+.one {
+    color: red;
+    margin-left: 20px;
+    padding: 10px; 
+}
+.word-spacing{
+    word-spacing: 30px;
+}
+
+.brand-logo{
+    background-color: lightcoral;
+    padding: 20px;
+    line-height: 50px; 
+    width: 100%;
+    
+}
